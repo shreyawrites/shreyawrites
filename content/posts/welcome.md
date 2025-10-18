@@ -4,7 +4,7 @@ date: 2024-10-18T00:00:00.000Z
 description: My first blog post
 ---
 
-[http://localhost:1313/uploads/Abstract,Shreya%20Pandey.pdf](http://localhost:1313/uploads/Abstract,Shreya%20Pandey.pdf)
+[Abstract, Shreya Pandey.pdf](/uploads/Abstract,Shreya%20Pandey.pdf)
 
 ad
 
