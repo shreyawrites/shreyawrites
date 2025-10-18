@@ -1,0 +1,27 @@
+{
+  "name": "shreyawrites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyawrites/shreyawrites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shreyawrites/shreyawrites/issues"
+  },
+  "homepage": "https://github.com/shreyawrites/shreyawrites#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.11.0",
+    "tinacms": "^2.9.0"
+  }
+}
