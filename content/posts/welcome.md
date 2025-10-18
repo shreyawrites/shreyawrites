@@ -1,43 +1,9 @@
 ---
-title: Welcome to My Blog
+title: Diwali Celebration
 date: 2024-10-18T00:00:00.000Z
 description: My first blog post
 ---
 
-[Abstract, Shreya Pandey.pdf](/uploads/Abstract,Shreya%20Pandey.pdf)
+My first Diwali celebration at my in laws house in coimbatore
 
-ad
-
-ad
-
-ad
-
-asdas
-
-dasd
-
-asd
-
-asd
-
-sad
-
-asd
-
-asd
-
-asd
-
-as
-
-da
-
-sd
-
-asd
-
-as
-
-das
-
-dasd
+[Diwali pic](/uploads/umesh-soni-H4ilfu3vftk-unsplash.jpg)
